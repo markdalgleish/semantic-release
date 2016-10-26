@@ -20,7 +20,7 @@
     "@semantic-release/last-release-npm": "^1.2.1",
     "@semantic-release/release-notes-generator": "^2.0.0",
     "git-head": "^1.2.1",
-    "github": "^0.2.4",
+    "github": "^5.3.3",
     "lodash": "^4.0.0",
     "nerf-dart": "^1.0.0",
     "nopt": "^3.0.3",
@@ -37,13 +37,13 @@
     "cz-conventional-changelog": "^1.1.4",
     "mkdirp": "^0.5.1",
     "nixt": "^0.5.0",
-    "nock": "^8.0.0",
+    "nock": "^9.0.0",
     "npm-registry-couchapp": "^2.6.11",
-    "nyc": "^7.0.0",
+    "nyc": "^8.3.2",
     "proxyquire": "^1.7.3",
     "rimraf": "^2.5.0",
-    "standard": "^7.0.1",
-    "tap": "^6.2.0"
+    "standard": "^8.5.0",
+    "tap": "^8.0.0"
   },
   "engines": {
     "node": ">=0.10",
